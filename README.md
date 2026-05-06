@@ -19,31 +19,31 @@ The central claim is that dangerous LLM failure often appears not as simple fals
 
 Start here, in this order:
 
-1. **01_Aurora_Precedence_One_pager.docx**  
+1. **01_Aurora_Precedence_One_pager.pdf**  
    Short front document stating authorship, differentiation, and the core claim.
 
-2. **02_Evidence_Index.docx**  
+2. **02_Evidence_Index.pdf**  
    Map of the archive and what each document proves.
 
 3. **03_Aurora PEF Final with Appendices v1.1.pdf**  
    Integrated architecture and evidence document.
 
-4. **04_EMPIRICAL_DEMONSTRATION_of_LLM_Failures.docx**  
+4. **04_EMPIRICAL_DEMONSTRATION_of_ LLM_Failures.pdf**  
    Formal statement of the identified failure class and Aurora alternative.
 
-5. **05_Collapse_Evidence.docx**  
+5. **05_Collapse_Evidence.pdf**  
    Structured empirical appendix documenting collapse behaviour across models.
 
 6. **05.1_Collapse_Evidence_Appendix_A.pdf**  
    Supporting appendix version of the collapse evidence.
 
-7. **06_APPENDIX_C_Aurora_Answer.docx**  
+7. **06_APPENDIX_C Aurora_Answer.pdf**  
    Structural answer mapping collapse modes to Aurora / PEF mechanisms.
 
-8. **07_LLMs_Documented_failures.docx**  
+8. **07_LLMs_Documented_failures.pdf**  
    Screenshot exhibits showing ambiguity collapse, interpretive instability, and unauthorized continuation.
 
-9. **08_Text_Exhibits -Self-Described Collapse and Audit Failure in ChatGPT and Claude.docx**  
+9. **08_Text Exhibits -Self-Described Collapse and Audit Failure in ChatGPT and Claude.pdf**  
    Text exhibits showing model-side descriptions of collapse and audit failure.
 
 ## Notes
